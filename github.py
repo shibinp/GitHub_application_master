@@ -1,4 +1,4 @@
-API_TOKEN='947a41f7222ad3a385c6998c3739f23368ea6490'
+API_TOKEN='************************************'
 GIT_API_URL='https://api.github.com'
 
 import requests
